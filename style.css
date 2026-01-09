@@ -48,6 +48,14 @@ background-color: chocolate;
 
 
  }
+ #banner .one:hover{
+background-color: chocolate;
+
+ }
+  #banner .tow:hover{
+background-color: chocolate;
+
+ }
 #banner{
  margin: 0  0;
 background-image: url(./B13-A01-Knowledge-Vault/assets/hero-bg.png);
