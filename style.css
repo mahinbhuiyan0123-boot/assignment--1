@@ -1,0 +1,274 @@
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+.font-inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+ 
+}
+header{
+padding-top: 16px;
+
+}
+nav{
+width: 80% ;
+max-width: 1707px;
+display: flex;
+justify-content: space-between;
+margin: 0 auto;
+align-items: center;
+}
+nav ul{
+display: flex;
+list-style: none;
+max-width: 365px;
+gap: 32px;
+
+}
+nav ul a{
+font-size: 16px;
+color: #000000;
+text-decoration: none;
+}
+.btn{
+max-width: 164px;
+max-height: 44px;
+background-color: #30B868;
+color:#FFFFFF;
+padding: 12px 16px;
+border-radius: 5px;
+border: none;
+}
+#banner{
+ margin: 0  0;
+background-image: url(./B13-A01-Knowledge-Vault/assets/hero-bg.png);
+width: 1707px;
+height: 674px;
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+#banner .banner-text{
+
+    max: width 770px; ;
+    max-height: 168px;
+margin: auto;
+
+
+}
+#banner .early{
+    text-align: center;
+    max: width 230px;
+    max-height: 36px ;
+    background-color: #FFFFFF;
+}
+#banner .banner-heading{
+font-weight: bold;
+text-align: center;
+ max: width 230px;
+    max-height: 36px ;
+}
+
+
+
+
+
+
+#note{
+    margin-top: 60px;
+
+
+}
+.note-container{
+width: 67%;
+max-width: 1707px;
+margin:0 auto
+
+
+}
+.note-box{
+display: flex;
+justify-content: center;
+gap: 48px;
+}
+.note-card{
+padding: ;
+max: width 322px;
+max-height: 300px;
+box-shadow:0 0 8px 0 rgba(0, 0, 0, 0.196);
+
+}
+.note-card .icon{
+    margin: 83px 145px 0 145px;
+    width: 60px;
+    height: 60px;
+align-items: center;
+background-color: orangered;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+}
+.icon img{
+    margin: 0 auto;
+}
+.note-card h3{
+margin:16px 24px ;
+text-align: center;
+}
+.note-card p{
+max-width: 274px;
+font-size:16px ;
+color:#627382;
+margin: 0 24px 69px 24px;
+text-align: center;
+}
+.section-heading h1{
+   font-size: 48px; 
+   max-width: 1360px;
+   text-align: center;
+}
+
+.section-heading p{
+font-size: 16px;
+color: #627382;
+text-align: center;
+margin-top: 16px;
+margin-bottom: 44px;
+}
+#a3{
+margin: 120px 120px;
+display: flex;
+gap: 60px;
+
+}
+#a3 .text{
+margin: 101px 0 ;
+list-style: none;
+
+
+}                    
+#a3 .text .first{
+font-size: 16px;
+color:#469165 ;
+}
+#a3 .text h1{
+    color: #001931;
+font-size: 48px;
+font-weight: bold;
+margin: 16px auto 16px 0;
+max-width: 700px;
+max-height: 117px;
+text-align: left;
+padding-right: 200px;
+}
+#a3 .text p{
+margin-bottom: 40px;
+max-height: 60px;
+color:#627382;
+
+
+}
+#a3 .text ul{
+    
+}
+
+#a3 .text li{
+list-style:none ;
+margin: 8px 0;
+
+}
+
+.text li img{
+vertical-align: middle;
+}
+#about{
+    background-color: rgba(218, 241, 218, 0.277);
+    width: 67%;
+max-width: 1707px;
+max-height:385px ;
+    align-items: center;
+    margin: 0 auto;
+    padding: 80px 40px;
+}
+#about h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 16px;
+}
+#about p{
+color: #627382;
+text-align: center;
+margin-bottom:24px ;
+}
+#about button{
+color:white;
+    display: flex;
+    gap: 10px;
+background-color: #469165;
+border: none;
+border-radius: 5px;
+padding: 12px;
+margin: auto;
+}
+#about .foot{
+margin-top:16px;
+margin-bottom: 80px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
