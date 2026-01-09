@@ -76,7 +76,7 @@ color: #30B868;
 background-color: aliceblue
 
 }
-h1{
+.banner-text h1{
 font-size:48px ;
 color: white;
 }
@@ -92,9 +92,8 @@ color:#FFFFFF;
 padding: 12px 16px;
 border-radius: 5px;
 border: none;}
-button.one:hover{
-background-color: chocolate;
-}
+
+
 .banner-text .tow{max-width: 164px;
 max-height: 44px;
 background-color: transparent;
@@ -218,6 +217,7 @@ max-height:385px ;
     padding: 80px 40px;
 }
 #about h1{
+    color: #000000;
     font-size: 40px;
     font-weight: bold;
     text-align: center;
